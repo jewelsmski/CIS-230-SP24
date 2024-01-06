@@ -3,7 +3,7 @@
 {
 	"name": "C# (.NET)",
 	// Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
-	"image": "mcr.microsoft.com/devcontainers/dotnet:1-8.0"
+	"image": "mcr.microsoft.com/devcontainers/dotnet:1-8.0",
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},
@@ -20,23 +20,14 @@
 	// "postCreateCommand": "dotnet restore",
 
 	// Configure tool-specific properties.
-	"customizations": {
+	"customizations": { 
 		// Configure properties specific to VS Code.
 		"vscode": {
 			"settings": {
         			"csharp.debug.logging.moduleLoad": false,
         			"csharp.debug.console": "externalTerminal"
       			},
-			"extensions": [
-				//"ms-vscode-remote.remote-containers",
-				//"streetsidesoftware.code-spell-checker",
-				//"ms-dotnettools.csdevkit",
-				//"github.copilot",
-				//"ms-dotnettools.dotnet-interactive-vscode",
-				//"github.copilot-chat",
-				//"ms-dotnettools.vscodeintellicode-csharp",
-				"ms-vsliveshare.vsliveshare"
-			]
+			"extensions": [ "ms-dotnettools.csdevkit", "ms-vsliveshare.vsliveshare" ]
 		}
 	}
 
