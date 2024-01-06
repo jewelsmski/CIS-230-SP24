@@ -1,6 +1,0 @@
-{
-    "csharp.debug.logging.moduleLoad": false,
-    "csharp.debug.console": "externalTerminal",
-    "liveshare.alwaysFollowHost": true,
-    "liveshare.anonymousGuestApproval": "accept"
-}
