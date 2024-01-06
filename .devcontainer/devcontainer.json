@@ -17,12 +17,12 @@
         			"csharp.debug.console": "externalTerminal"
       			},
 			"extensions": [
-				"streetsidesoftware.code-spell-checker",
-		        	"ms-dotnettools.csdevkit",
-		        	"github.copilot",
-		        	"ms-dotnettools.dotnet-interactive-vscode",
-		        	"github.copilot-chat",
-		        	"ms-dotnettools.vscodeintellicode-csharp",
+				//"streetsidesoftware.code-spell-checker",
+		        	//"ms-dotnettools.csdevkit",
+		        	//"github.copilot",
+		        	//"ms-dotnettools.dotnet-interactive-vscode",
+		        	//"github.copilot-chat",
+		        	//"ms-dotnettools.vscodeintellicode-csharp",
 		        	"ms-vsliveshare.vsliveshare"
 			]
 		}
