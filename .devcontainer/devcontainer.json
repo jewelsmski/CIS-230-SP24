@@ -2,7 +2,6 @@
 	"name": "C# (.NET)",
 	"image": "mcr.microsoft.com/devcontainers/dotnet:1-8.0",
 	"customizations": { 
-		// Configure properties specific to VS Code.
 		"vscode": {
 			"settings": {
 				"csharp.debug.logging.moduleLoad": false,
