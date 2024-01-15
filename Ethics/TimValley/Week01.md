@@ -1,6 +1,8 @@
 # This is week 01 ethics
 Obviously!
 
+## One more quick change!
+
 Things to consider:
  - This
  - That
