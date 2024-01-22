@@ -38,15 +38,20 @@ Biblical Reference- "It is good not to eat meat or drink wine or do anything tha
 
 First Principle- One way for a Christian to look at this situation is to understand that helping the website is inevitably going to indirectly lead others into sin, and that can be a hard line that is worth staying behind. For some, sticking to the principle found in Romans 14:21 is worth everything, including potentially losing employment, as is possible in this scenario.
 
-<b>Response 3:</b>
+<b>Response 3: Accept but Ask to Never Work with this Client Again</b>
 
-Pros-
+Pros- Fulfills contractual obligations, sets clear boundary for the future, avoids forcing any of your colleagues to deal with making the same decision
 
-Cons-
+Cons- Still indirectly leads people to sin, supports the company in the moment, continues the relationship between company and industry
 
 Dialog-
 
-Biblical Reference-
+Boss: "Will you take care of this problem and help get ____ back on track? That's the pornography website, our second biggest client."
 
-First Principle-
+Employee: "I can do it now since it's short notice, but moving forward I would appreciate not having to work with ____."
 
+Boss: "No worries, next time they need help we'll go to someone else. Thanks for being flexible this time."
+
+Biblical Reference- "But if anyone does not provide for his relatives, and especially for members of his household, he has denied the faith and is worse than an unbeliever." -1 Timothy 5:8
+
+First Principle- Doing what is required of you in your contract is important, as it is effectively keeping true to your word. Even if it means making a decision that can be seen as unethical by some, doing it with the right heart and the motivation of staying steadfast on your promises to your employer is very valuable. Asking for flexibility in assignments moving forward allows future choices to be made in good conscience and allows you to continue staying true to your word.
