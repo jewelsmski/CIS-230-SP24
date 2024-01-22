@@ -55,3 +55,7 @@ Boss: "No worries, next time they need help we'll go to someone else. Thanks for
 Biblical Reference- "But if anyone does not provide for his relatives, and especially for members of his household, he has denied the faith and is worse than an unbeliever." -1 Timothy 5:8
 
 First Principle- Doing what is required of you in your contract is important, as it is effectively keeping true to your word. Even if it means making a decision that can be seen as unethical by some, doing it with the right heart and the motivation of staying steadfast on your promises to your employer is very valuable. Asking for flexibility in assignments moving forward allows future choices to be made in good conscience and allows you to continue staying true to your word.
+
+### My Choice
+
+I would gravitate towards option 3. It represents a middle ground that definitely allows me to keep my job, and although it could be viewed as immoral in the short term, it sets the boundary for what long-term responsibilities I am comfortable with so that my employer can adjust accordingly. I would anticipate a positive reaction immediately and at least a change in personal responsibility moving forward. If these things did not happen, I would consider searching for another job that would be willing to respect those boundaries.
