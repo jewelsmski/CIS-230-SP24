@@ -1,4 +1,4 @@
-# Week02 Ethics
+# Week03 Ethics
 ## 🤔 Prompt:
 > While maintaining an extremely popular Open-Source project, authorities contact you asking that you introduce back door code to allow them to gather the needed evidence to stop an online child trafficking scheme. What are three responses? What do you do?
 ## Option 1: _Refuse_
